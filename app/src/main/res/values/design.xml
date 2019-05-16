@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="dimensionWidth">200dp</dimen>
+    <dimen name="dimensionHeight">60dp</dimen>
+</resources>

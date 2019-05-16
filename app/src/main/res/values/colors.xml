@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#596a7d</color>
+    <color name="colorPrimaryDark">#24466b</color>
+    <color name="colorAccent">#005b96</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#F5F3F3</color>
+    <color name="ListViewItem1">#FFFDFD</color>
+    <color name="ListViewItem2">#DDD9D9</color>
+</resources>
